@@ -25,6 +25,8 @@ function submitIt(){
     alert("Your form is going to be submitted now.")})
 }
 
+frameIt()
+
 $(document).ready(function(){
 
 // call functions here
